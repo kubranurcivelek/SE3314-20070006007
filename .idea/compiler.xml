@@ -9,5 +9,8 @@
         <module name="week-6-3314" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SE3314-20070006007" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
